@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 If you have any questions or want to contribute, feel free to reach out:
 
 - **Email**: Tinntbs00491@fpt.edu.vn
-- **GitHub Issues**: [Report Issues](https://github.com/dienakdz/travela/issues)
+- **GitHub Issues**: [Report Issues]((https://github.com/Zenus7654/DulichVN/issues))
 
 Thank you for using Travela! We hope you enjoy your travel journey with us. ✈️ 🌟
 
